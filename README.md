@@ -53,11 +53,12 @@ editorinmind/
 ## ✨ Contributing
 
 Interested in contributing scenes, analysis, or LLM evaluations?  
+
 Open a pull request or get in touch! Thoughtful additions are welcome, especially from writers, editors, and researchers working on AI-assisted creativity.
 
 ## 📬 Contact
 
-Questions or ideas? Feel free to open an issue or reach out via [links on my profile](https://github.com/jeffreybarry)].
+Questions or ideas? Feel free to open an issue or reach out via [links on my profile](https://github.com/jeffreybarry).
 
 ---
 
