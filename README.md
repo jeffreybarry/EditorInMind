@@ -1,8 +1,4 @@
-Perfect—*editorinmind* with the tagline updated to "fictional scenes" has a clear identity. Here's a polished draft of your `README.md` with a thoughtful balance of clarity and tone, and a light touch of emojis to make it welcoming without being overly casual:
-
----
-
-# ✍️ editorinmind
+# ✍️ EditorInMind
 
 **A benchmark for evaluating AI as a developmental editor through author-guided, question-driven feedback on fictional scenes.**
 
