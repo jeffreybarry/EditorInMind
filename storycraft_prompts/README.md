@@ -1,6 +1,6 @@
 # 🛠️ storycraft_prompts
 
-This folder contains a collection of **targeted developmental editing prompts** designed to guide authors through specific aspects of fiction craft—one scene at a time.
+This folder contains a collection of **targeted developmental editing prompts** designed to guide authors through specific aspects of crafting fiction—one scene at a time.
 
 Each prompt invites the AI to function as a careful reader and literary agent, asking only **open-ended, reflective questions** focused on a single dimension of storytelling. The goal is to help the author revisit and revise their work with greater clarity, control, and creative intent.
 
