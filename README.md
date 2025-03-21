@@ -7,6 +7,7 @@
 **EditorInMind** is a benchmark designed to assess how well LLM-based tools support fiction writers in the self-editing process. Unlike tools that suggest direct edits or rewrites, this benchmark evaluates AI's ability to act as a thoughtful editorial companion—one that poses insightful, open-ended questions to authors to guide their revision process.
 
 The goal is simple:  
+
 🧠 **Keep creative control in the hands of the author** while using AI to spark reflection, deepen narrative choices, and strengthen developmental aspects of the story.
 
 ## 🧭 Philosophy
